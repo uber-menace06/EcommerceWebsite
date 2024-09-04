@@ -1,0 +1,7 @@
+npm init -y
+
+npm install express mongoose dotenv nodemon
+
+"scripts": {
+    "start": "nodemon index.js"
+  }, in package.json---->> for continuous updation in terminal
